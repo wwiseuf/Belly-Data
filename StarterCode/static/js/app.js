@@ -16,7 +16,7 @@ function init() {
 		
 		data.names.forEach(name => {
 			
-			var option = idSelect.append("option");
+			var option = idSelectDropDown.append("option");
 			option.text(name);
 		
 		}); 
