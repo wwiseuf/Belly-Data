@@ -1,4 +1,4 @@
-var samplesJson = "./samples.json"
+var samplesJson = "data/samples.json"
 
 //dropdown menu
 var idSelectDropDown = d3.select("#selDataset");
