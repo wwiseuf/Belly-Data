@@ -134,7 +134,7 @@ var barTrace = {
   //        Arming for the Gauge Chart
   //****************************************************/
   
-  var wfreq = indivMetadata.wfreq;
+  var wfreq = indivMetaData.wfreq;
 
   if (wfreq == null) {
 	wfreq = 0;
